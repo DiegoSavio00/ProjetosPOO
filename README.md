@@ -4,3 +4,4 @@
 - Projeto Curso Add
 - Projeto Lanche Add
 - Projeto Figuras Geometricas Add
+- Projeto PokeDex Add
