@@ -1,5 +1,6 @@
 # ProjetosPOO
 - Projeto Agenda Add
+- Projeto Alunos Add
 - Projeto Animal Add
 - Projeto Contatos Add
 - Projeto Conta Bancária Add
