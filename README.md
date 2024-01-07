@@ -5,6 +5,7 @@
 - Projeto Contatos Add
 - Projeto Conta Bancária Add
 - Projeto Curso Add
+- Projeto Exceções Add
 - Projeto Lanche Add
 - Projeto Figuras Geometricas Add
 - Projeto PokeDex Add
