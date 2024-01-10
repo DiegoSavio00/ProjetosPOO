@@ -1,5 +1,5 @@
 # ProjetosPOO
-# Projetos de Orientação Objetivo com fins de aprendizagem e práticas.
+# Projetos de Programação Orientação Objeto com fins de aprendizagem e práticas.
 - Projeto Agenda Add
 - Projeto Alunos Add
 - Projeto Animal Add
